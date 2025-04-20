@@ -7,3 +7,5 @@ This repository contains my code for assignments on the Web Services and Applica
 - [Remove Duplicates](https://www.w3schools.com/python/python_howto_remove_duplicates.asp)
 - [Counting Lists](https://www.w3schools.com/python/ref_list_count.asp)
 - [CSO Dataset](https://data.cso.ie/)
+- [AI to Text Generation](https://openai.com/)
+- []
